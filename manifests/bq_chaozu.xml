@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/bq/chaozu" name="Halium/android_device_bq_chaozu" remote="hal" />
+    <project path="device/bq/msm8937-common" name="Halium/android_device_bq_msm8937-common" remote="hal" />
+
+    <project path="kernel/bq/msm8937" name="Halium/android_kernel_bq_msm8937" remote="hal" />
+
+    <project path="vendor/bq" name="proprietary_vendor_bq" remote="them" />
+</manifest> 
